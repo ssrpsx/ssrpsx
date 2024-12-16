@@ -3,7 +3,7 @@
 
 <h4 align="left">💻 Computer Science Student</h4>
 <h4 align="left">🌍 I'm based in Bangkok</h4>
-<h4 align="left">⚡ I'm 18 years old</h4>
+<h4 align="left">⚡ I'm 19 years old</h4>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
