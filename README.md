@@ -1,5 +1,5 @@
 <h1 align="left">Hello! 👋</h1>
-<h2 align="left">CS undergrad | Exploring softwareeeeee</h2>
+<h2 align="left">CS undergrad | Exploring softwareee</h2>
 
 <h4 align="left">💻 Computer Science Student</h4>
 <h4 align="left">🌍 I'm based in Bangkok</h4>
