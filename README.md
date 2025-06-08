@@ -8,14 +8,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <!-- React (new first item) -->
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-   </a>
-   <!-- Tailwind (next to React) -->
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-   </a>
    <!-- Arduino -->
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -43,6 +35,14 @@
    <!-- JS -->
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <!-- React (new first item) -->
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+   </a>
+   <!-- Tailwind (next to React) -->
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
    </a>
    <!-- PHP -->
    <a href="https://www.php.net" target="_blank" rel="noreferrer">
